@@ -3,10 +3,22 @@
 
 
 ## 🚀 About Me
-I'm a fullstack developer focus on React stack and node in backend
+👨‍💻 Full-Stack Developer | React & Node.js Specialist
+🔧 JavaScript Plugin Author | Diverse Technical Skillset
+
+Driven by a passion for crafting immersive web experiences with a modern stack. In my arsenal, I boast the capability to craft custom JavaScript plugins, enhancing projects with unique functionalities and innovative solutions. Possessing a broad range of technical know-how, I am constantly on the lookout for new challenges and opportunities to grow in the ever-evolving world of web development.
 
 ## 🛠 Skills
-Typescript, HTML, CSS, React, Node, GraphQl, Prisma, Styled Components
+- Typescript
+- Nest.js
+- Postgresql
+- HTML
+- CSS
+- React
+- Node
+- GraphQl
+- Prisma
+- Tailwind
 
 
 ## Curiosities
